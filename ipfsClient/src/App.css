@@ -1,0 +1,22 @@
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #589ed0;
+  color: white;
+  font-size: 30px;
+}
+label {
+  font-size: 20px;
+}
+button {
+  padding: "10px";
+  background: "#589ed0";
+  color: "white";
+  font-size: "15px";
+  border-radius: "12px";
+}
+input[type=text]{
+  font-size: 15px;
+  padding: 5px;
+  border: 20px;
+}
